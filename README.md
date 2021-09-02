@@ -1,2 +1,2 @@
 # JetBrains
-JetBrains Projects
+Easy program projects in python
